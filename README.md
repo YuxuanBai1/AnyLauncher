@@ -1,4 +1,4 @@
-[中文](README.cn.md)
+[中文](Readme.cn.md)
 
 ## Any Launcher - Lightweight and Versatile Game Launcher
 
@@ -68,5 +68,6 @@ Any Launcher/
 - Q: Logo display is abnormal? A: Check if there is a logo.png file in the project root directory, or replace it with a picture of the appropriate size (recommended size 400x200).
 
 ### 📄 License
+
 
 This project is open source under the MIT License, and can be freely modified, distributed and used commercially. See the LICENSE file for details.
